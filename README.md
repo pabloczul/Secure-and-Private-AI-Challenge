@@ -25,3 +25,10 @@ Study groups:
 
 I encourage! @Sankalp Dayal @Sana Saeed @Sanat B Singh @Sanat B Singh @sandeep @sandeep dutta @Sandhya raghavan.
 
+Day 9: 
+Udacity and other courses: Had problems with anaconda. That took most of my time. But i watched some more videos on lesson 4
+
+Study groups: Requested to Joind the begginer study group in #Sg_cognitive-learners. 
+reading through kaggle competitions
+
+I encourage! @Alejandro Aristizábal @Ana @Anita Goldpergel @Elvio Pedroso Martinelli @EA Sara @Eben O @Irene0000 @I. Ebonko @Obiamaka Agbaneje @Obinna @Sankalp Dayal.
